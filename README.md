@@ -1,24 +1,20 @@
-# IPL Data Analysis using Python
+# 📊 Data Analysis Projects
 
-## Objective
-This project performs exploratory data analysis (EDA) on IPL match data to uncover patterns related to team performance, toss decisions, and match outcomes.
+## 🔹 1. IPL Data Analysis
+Analysis of IPL matches to find team performance, toss impact, and trends.
 
-## Key Analysis
-- Most successful teams
-- Toss impact on matches
-- Season-wise dominant teams
-- Toss decision analysis
+## 🔹 2. Sales Data Analysis
+Analysis of sales data to understand business performance using Python.
 
-## Key Insights
-- Mumbai Indians and Chennai Super Kings are dominant teams.
-- Toss has slight impact on match results.
-- Teams prefer chasing after winning toss.
-- Player performance affects outcomes significantly.
+### 🛠 Tools Used
+- Python  
+- Pandas  
+- Matplotlib  
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
+### 📈 Key Insights
+- West region has highest sales  
+- Technology category performs best  
+- Sales show growth over time  
 
-## Author
+## 👤 Author
 Eknoor Singh
